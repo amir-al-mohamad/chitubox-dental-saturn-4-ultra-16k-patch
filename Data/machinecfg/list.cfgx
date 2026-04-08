@@ -1,0 +1,1613 @@
+{
+    "root": [
+        {
+            "show": "AnyCubic",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [   
+                        {
+                            "config_path": "AnyCubic Photon D2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon D2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon D2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon M3 Max.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon M3 Max.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon M3 Max",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon M3 Plus.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon M3 Plus.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon M3 Plus",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon M3 Premium.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon M3 Premium.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon M3 Premium",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon M3.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon M3.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon M3",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono 2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono 2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono 2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono M5.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono M5.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono M5",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono M5s Pro.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono M5s Pro.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono M5s Pro",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono M5s.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono M5s.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono M5s",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Anycubic Photon Mono M7 Pro.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Anycubic Photon Mono M7 Pro.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Anycubic Photon Mono M7 Pro",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Anycubic Photon Mono M7.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Anycubic Photon Mono M7.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Anycubic Photon Mono M7",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono SE.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono SE.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono SE",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono X 6K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono X 6K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono X 6K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono X.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono X.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono X",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono X2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono X2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono X2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono X6Ks.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono X6Ks.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono X6Ks",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Mono.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Mono.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Mono",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon S.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon S.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon S",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon SQ.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon SQ.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon SQ",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Ultra.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Ultra.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Ultra",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon X.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon X.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon X",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon Zero.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon Zero.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon Zero",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "AnyCubic Photon.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "AnyCubic Photon.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "AnyCubic Photon",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "ApexMaker",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "X1 mini.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "X1 mini.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "X1 mini",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "X1.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "X1.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "X1",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Carima",
+            "type": "group",
+            "value": [
+                {                   
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMC-110",
+                             "config_path": "Carima IMC-110.cfgd",
+                             "image_path": "Carima IMC-110.png",
+                             "id": "{82ce8161-b043-11ee-b0be-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMC-57",
+                             "config_path": "Carima IMC-57.cfgd",
+                             "image_path": "Carima IMC-57.png",
+                             "id": "{82ce8162-b043-11ee-98ac-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMC-76",
+                             "config_path": "Carima IMC-76.cfgd",
+                             "image_path": "Carima IMC-76.png",
+                             "id": "{82ce8163-b043-11ee-bd43-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMC-96",
+                             "config_path": "Carima IMC-96.cfgd",
+                             "image_path": "Carima IMC-96.png",
+                             "id": "{82ce8164-b043-11ee-9956-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMD-110",
+                             "config_path": "Carima IMD-110.cfgd",
+                             "image_path": "Carima IMD-110.png",
+                             "id": "{82ce8165-b043-11ee-97f2-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMD-124",
+                             "config_path": "Carima IMD-124.cfgd",
+                             "image_path": "Carima IMD-124.png",
+                             "id": "{82ce8166-b043-11ee-9478-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMD-57",
+                             "config_path": "Carima IMD-57.cfgd",
+                             "image_path": "Carima IMD-57.png",
+                             "id": "{82ce8167-b043-11ee-aa91-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMD-76",
+                             "config_path": "Carima IMD-76.cfgd",
+                             "image_path": "Carima IMD-76.png",
+                             "id": "{82ce8168-b043-11ee-ab34-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima IMD-96",
+                             "config_path": "Carima IMD-96.cfgd",
+                             "image_path": "Carima IMD-96.png",
+                             "id": "{82ce8169-b043-11ee-a858-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        },
+                        {
+                             "type": "item",
+                             "machine_model": "Carima LM1",
+                             "config_path": "Carima LM1.cfgd",
+                             "image_path": "Carima LM1.png",
+                             "id": "{82ce816a-b043-11ee-abff-b42e99e358dc}",
+                             "last_update_time": "1970-01-01 00:00:00"
+                        }
+                    ]
+                }
+            ]               
+        },
+        {
+            "show": "CREALITY",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "CREALITY LD-002H.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "CREALITY LD-002H.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "CREALITY LD-002H",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "CREALITY LD-002R.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "CREALITY LD-002R.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "CREALITY LD-002R",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "CREALITY LD-006.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "CREALITY LD-006.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "CREALITY LD-006",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-LITE.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-LITE.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-LITE",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-MAGE PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-MAGE PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-MAGE PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-MAGE S.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-MAGE S.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-MAGE S",
+                            "type": "item"
+                        },                                                 
+                        {
+                            "config_path": "HALOT-MAGE.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-MAGE.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-MAGE",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-ONE PLUS.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-ONE PLUS.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-ONE PLUS",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-ONE PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-ONE PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-ONE PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-ONE.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-ONE.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-ONE",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-PLAY.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-PLAY.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-PLAY",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HALOT-R6.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-R6.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-R6",
+                            "type": "item"
+                        },  
+                        {
+                            "config_path": "HALOT-RAY.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HALOT-RAY.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HALOT-RAY",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "ELEGOO",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "ELEGOO JUPITER SE.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO JUPITER SE.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO JUPITER SE",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO JUPITER.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO JUPITER.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO JUPITER",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 2 PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 2 PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 2 PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 3 PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 3 PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 3 PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 3.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 3.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 3",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 4 DLP.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 4 DLP.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 4 DLP",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 4 MAX.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 4 MAX.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 4 MAX",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Mars 4 Ultra.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Mars 4 Ultra.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Mars 4 Ultra",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS 4.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS 4.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS 4",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Mars 5 Ultra.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Mars 5 Ultra.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Mars 5 Ultra",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Mars 5.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Mars 5.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Mars 5",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS C.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS C.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS C",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO MARS.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO MARS.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO MARS",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO SATURN 2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO SATURN 2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO SATURN 2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Saturn 3 Ultra.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Saturn 3 Ultra.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Saturn 3 Ultra",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO SATURN 3.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO SATURN 3.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO SATURN 3",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Saturn 4 Ultra.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Saturn 4 Ultra.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Saturn 4 Ultra",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Saturn 4 Ultra 16K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Saturn 4 Ultra 16K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Saturn 4 Ultra 16K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO Saturn 4.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO Saturn 4.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO Saturn 4",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO SATURN 8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO SATURN 8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO SATURN 8K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO SATURN S.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO SATURN S.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO SATURN S",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "ELEGOO SATURN.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "ELEGOO SATURN.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "ELEGOO SATURN",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "EMAKE3D",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Galaxy 1.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Galaxy 1.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Galaxy 1",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Megalabs 1.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Megalabs 1.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Megalabs 1",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Stellar 1.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Stellar 1.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Stellar 1",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "EPAX",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "EPAX DX1 PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX DX1 PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX DX1 PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX DX10 PRO 5K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX DX10 PRO 5K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX DX10 PRO 5K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX DX10 PRO 8K_8KW.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX DX10 PRO 8K_8KW.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX DX10 PRO 8K_8KW",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX E10 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX E10 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX E10 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX E10 5K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX E10 5K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX E10 5K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX E10 8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX E10 8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX E10 8K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX E10 14KW.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX E10 14KW.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX E10 14KW",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X1-4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X1-4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X1-4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X1-4KS.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X1-4KS.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X1-4KS",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX E6.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX E6.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX E6",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X1.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X1.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X1",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X1K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X1K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X1K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X10 2K Color.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X10 2K Color.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X10 2K Color",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X10 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X10 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X10 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X10 5K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X10 5K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X10 5K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X10 8K_8kW.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X10 8K_8kW.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X10 8K_8kW",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X10 14KW.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X10 14KW.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X10 14KW",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X133 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X133 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X133 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X133 6K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X133 6K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X133 6K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X133 7K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X133 7K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X133 7K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X156 4K Color.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X156 4K Color.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X156 4K Color",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "EPAX X160 8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "EPAX X160 8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "EPAX X160 8K",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Flashforge",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Flashforge Explorer Max.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Flashforge Explorer Max.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Flashforge Explorer Max",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Flashforge Foto 6.0.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Flashforge Foto 6.0.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Flashforge Foto 6.0",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Flashforge Foto 8.9.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Flashforge Foto 8.9.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Flashforge Foto 8.9",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "HIFUN",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "HF-L1-9K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HF-L1-9K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HF-L1-9K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HF-L3-14K PRO.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HF-L3-14K PRO.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HF-L3-14K PRO",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HF-L3-14K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HF-L3-14K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HF-L3-14K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HF-L5-7K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HF-L5-7K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HF-L5-7K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HF-L6-8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HF-L6-8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HF-L6-8K",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "HITRY",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "HITRY Rocket 1 Pro.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HITRY Rocket 1 Pro.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HITRY Rocket 1 Pro",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "HITRY Rocket 1.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "HITRY Rocket 1.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "HITRY Rocket 1",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "LYNcase",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "LYN cast LY-01.cfgd",
+                            "id": "{b3daf546-f5ea-425c-8764-3ab77ab4d2f0}",
+                            "image_path": "LYN cast LY-01.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "LYN cast LY-01",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Magforms",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Magforms P13.cfgd",
+                            "id": "{b3daf546-f5ea-425c-8764-3ab77ab4d2f0}",
+                            "image_path": "Magforms P13.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Magforms P13",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Newbie Box",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Kylin Two.cfgd",
+                            "id": "{b3daf546-f5ea-425c-8764-3ab77ab4d2f0}",
+                            "image_path": "Kylin Two.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Kylin Two",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phoenix One.cfgd",
+                            "id": "{b3daf546-f5ea-425c-8764-3ab77ab4d2f0}",
+                            "image_path": "Phoenix One.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phoenix One",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "NOVA3D",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "NOVA3D Bene6.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Bene6.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Bene6",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale2 Pro.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale2 Pro.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale2 Pro",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale3 Pro.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale3 Pro.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale3 Pro",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale3 SE.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale3 SE.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale3 SE",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale3 Super-14k.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale3 Super-14k.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale3 Super-14k",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale3 Ultra-14k.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale3 Ultra-14k.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale3 Ultra-14k",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "NOVA3D Whale4.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "NOVA3D Whale4.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "NOVA3D Whale4",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Peopoly",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Peopoly Phenom L.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Peopoly Phenom L.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Peopoly Phenom L",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Peopoly Phenom Noir.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Peopoly Phenom Noir.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Peopoly Phenom Noir",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Peopoly Phenom Prime.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Peopoly Phenom Prime.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Peopoly Phenom Prime",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Peopoly Phenom XXL.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Peopoly Phenom XXL.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Peopoly Phenom XXL",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Peopoly Phenom.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Peopoly Phenom.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Peopoly Phenom",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Phrozen",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Phrozen Shuffle 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Shuffle 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Shuffle 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Shuffle Lite.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Shuffle Lite.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Shuffle Lite",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Shuffle XL Lite.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Shuffle XL Lite.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Shuffle XL Lite",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Shuffle XL.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Shuffle XL.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Shuffle XL",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Shuffle.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Shuffle.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Shuffle",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mega 8K S.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mega 8K S.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mega 8K S",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mega 8K V2.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mega 8K V2.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mega 8K V2",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mega 8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mega 8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mega 8K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mighty 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mighty 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mighty 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mighty 8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mighty 8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mighty 8K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mighty 12K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mighty 12K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mighty 12K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mighty Revo.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mighty Revo.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mighty Revo",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mini 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mini 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mini 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mini 8K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mini 8K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mini 8K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mini 8K S.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mini 8K S.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mini 8K S",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic Mini.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic Mini.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic Mini",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Sonic XL 4K.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Sonic XL 4K.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Sonic XL 4K",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "phrozen Sonic.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "phrozen Sonic.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "phrozen Sonic",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Phrozen Transform.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Phrozen Transform.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Phrozen Transform",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "PIOCREAT",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "PIOCREAT C01.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "PIOCREAT C01.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "PIOCREAT C01",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "PIOCREAT C02.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "PIOCREAT C02.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "PIOCREAT C02",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "QIDI",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "QIDI 6.08 mono.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "QIDI 6.08 mono.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "QIDI 6.08 mono",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "QIDI i-box mono.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "QIDI i-box mono.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "QIDI i-box mono",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "QIDI S-box.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "QIDI S-box.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "QIDI S-box",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "QIDI Shadow5.5s.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "QIDI Shadow5.5s.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "QIDI Shadow5.5s",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "QIDI Shadow6.0 Pro.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "QIDI Shadow6.0 Pro.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "QIDI Shadow6.0 Pro",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "SparkMaker",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "SparkMaker FHD.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "SparkMaker FHD.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "SparkMaker FHD",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "SparkMaker Original.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "SparkMaker Original.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "SparkMaker Original",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "UniFormation",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "UniFormation GK3 Ultra.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "UniFormation GK3 Ultra.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "UniFormation GK3 Ultra",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "UniFormation GKtwo.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "UniFormation GKtwo.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "UniFormation GKtwo",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Voxelab",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Voxelab Ceres 8.9.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Voxelab Ceres 8.9.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Voxelab Ceres 8.9",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "Voxelab Polaris 5.5.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Voxelab Polaris 5.5.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Voxelab Polaris 5.5",
+                            "type": "item"
+                        },                        
+                        {
+                            "config_path": "Voxelab Proxima 6.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Voxelab Proxima 6.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Voxelab Proxima 6",
+                            "type": "item"
+                        }                        
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "WanHao",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "WanHao CGR Mini Mono.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "WanHao CGR Mini Mono.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "WanHao CGR Mini Mono",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "WanHao CGR Mono.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "WanHao CGR Mono.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "WanHao CGR Mono",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "WanHao D7.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "WanHao D7.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "WanHao D7",
+                            "type": "item"
+                        },
+                        {
+                            "config_path": "WanHao D8.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "WanHao D8.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "WanHao D8",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Zortrax",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "Zortrax Inkspire.cfgd",
+                            "id": "{b5866a7c-c2d1-4304-b3ac-d91bb51e0020}",
+                            "image_path": "Zortrax Inkspire.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "Zortrax Inkspire",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "show": "Custom Printer",
+            "type": "group",
+            "value": [
+                {
+                    "show": "",
+                    "type": "model",
+                    "value": [
+                        {
+                            "config_path": "default.cfgd",
+                            "id": "{79c2702d-9d0e-463a-ac61-029209d0912c}",
+                            "image_path": "default.png",
+                            "last_update_time": "1970-01-01 00:00:00",
+                            "machine_model": "default",
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": "0.0.64"
+}
